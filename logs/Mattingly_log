@@ -1,0 +1,53 @@
+# Aiden
+Fall 2023 log
+
+## November 19
+
+What I did:
+- downloaded Anaconda
+- began watching code.org videos
+- found code.org videos to be mostly review of what I already know
+
+Questions/ideas:
+- a lot of stuff on the DGSF page randomly seems to redirect to dead pages, is that GitHub being weird or has stuff been deleted?
+- I think there needs to be better communication about weekly/biweekly expectations, and I need to take better notes during meetings.
+
+Other updates:
+- having an old wrist injury flare up, making it hard to type a lot 
+
+---
+
+## Markdown
+
+```
+# First-level heading
+
+## Second-level heading
+
+1. Ordered list
+2. ordered list
+
+- Unordered list
+- Unordered list
+
+Use multiple returns or consecutive lines
+will run together
+
+*Italics* or **Bold**
+
+```
+
+# First-level heading
+
+## Second-level heading
+
+1. Ordered list
+2. ordered list
+
+- Unordered list
+- Unordered list
+
+Use multiple returns or consecutive lines
+will run together
+
+*Italics* or **Bold**
